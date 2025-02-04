@@ -2,7 +2,7 @@
 
 Simple task manager website with some extra features and a clean user interface! Allows users to create, edit, delete, and filter tasks, and view statistics.
 
-[**Check it out!** 🔍](https://wdc-task-manager.vercel.app)
+[**Check it out!** 🔍](https://task-manager-jet-theta.vercel.app)
 
 ## 📦 Key Features
 
